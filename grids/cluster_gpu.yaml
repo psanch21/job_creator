@@ -1,0 +1,6 @@
+executable: '/home/psanch21/miniconda3/envs/my_env_gpu/bin/python'
+request_gpus: '1'
+request_memory: '12240'
+request_cpus: '4'
+requirements: 'TARGET.CUDACapability>3.5'
+getenv: 'true'

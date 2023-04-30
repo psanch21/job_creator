@@ -1,0 +1,5 @@
+executable: '/home/psanch21/miniconda3/envs/my_env/bin/python'
+request_memory: '6000'
+request_cpus: '1'
+getenv: 'true'
+
